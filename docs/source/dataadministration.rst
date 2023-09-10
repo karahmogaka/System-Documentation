@@ -10,9 +10,6 @@ Data administration in DHIS2 is a crucial aspect of managing and maintaining the
 
 #. Analytics Tables; Analytics tables are specialized database tables in DHIS2 that store aggregated and calculated data for reporting and analysis purposes. DHIS2 automatically generates and populates analytics tables through scheduled data aggregation processes. 
 
-#.Data Exception; Data exceptions help identify and handle data anomalies or irregularities that may occur in the system.
-Data exception rules can be configured and alerts to detect and notify users of data anomalies, missing values, or unexpected data patterns will be generated. These rules assist in maintaining data quality and identifying issues for resolution.
-
 #. Min-Max Value Generation; Min-max value generation calculates and sets minimum and maximum values for data elements to ensure data consistency and accuracy. Administrators configure rules and criteria to calculate and assign minimum and maximum values to data elements automatically. This helps maintain data quality and consistency.
 
 #. Data Statistics; Data statistics in DHIS2 provide insights into data trends, distribution, and summary statistics.DHIS2 generates data statistics, such as mean, median, mode, standard deviation, and others, for numerical data elements. Users can access these statistics to analyze data patterns and make informed decisions.
