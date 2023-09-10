@@ -6,6 +6,7 @@ System Settings" are an integral part of the configuration process, allowing adm
 
 
 Here are the main components of DHIS2 System Settings:
+
 #. General Settings
 
 #. Analytics Settings
