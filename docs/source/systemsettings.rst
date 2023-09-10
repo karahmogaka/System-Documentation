@@ -8,7 +8,6 @@ System Settings" are an integral part of the configuration process, allowing adm
 Here are the main components of DHIS2 System Settings:
 
 #. General Settings
-
 #. Analytics Settings
 Analytics settings are related to data analysis and reporting in DHIS2. This includes configuring options for data aggregation, chart and map properties, and data visualization settings.
 
